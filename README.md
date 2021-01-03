@@ -53,7 +53,7 @@ tensorflow/exported-model: app that captures csgo video output, runs inference o
 
   
 
-**Machine learning: ** 
+**Machine learning:**  
 
 [ ] Train mobilenet model
 
