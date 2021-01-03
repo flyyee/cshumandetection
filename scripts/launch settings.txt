@@ -1,0 +1,3 @@
+-insecure -untrusted -tickrate 128
+
+Turn off steam overlay

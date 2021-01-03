@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\libs\csv.h(177,33): warning C4244: 'return': conversion from 'std::streamsize' to 'int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\libs\csv.h(193,42): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(34,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(139,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(143,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(147,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(151,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(159,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(163,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(167,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(180,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(232,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(235,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(335,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(348,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(390,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(391,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(412,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(412,23): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(497,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(498,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(575,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\csgonav\main.cpp(589,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+  csgonav.vcxproj -> C:\Users\Gerrard Tai\Documents\code\cshumandetection\csgonav\Debug\csgonav.exe

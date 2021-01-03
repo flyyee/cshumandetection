@@ -1,0 +1,88 @@
+Camera spot generation beginning at Sun Dec 20 19:36:11 2020
+. Settings: 1250,3
+Camera spots generation verbose output
+478 camera spots found (this epoch) out of 1250 attempts.
+478 camera spots found (in total) out of 3750 attempts.
+49607 spots unchecked out of 53357
+Camera spots generation verbose output
+1200 camera spots found (this epoch) out of 1250 attempts.
+1200 camera spots found (in total) out of 8750 attempts.
+44607 spots unchecked out of 53357
+Camera spots generation verbose output
+900 camera spots found (this epoch) out of 1250 attempts.
+2150 camera spots found (in total) out of 13750 attempts.
+39607 spots unchecked out of 53357
+Camera spots generation verbose output
+653 camera spots found (this epoch) out of 1250 attempts.
+3153 camera spots found (in total) out of 18750 attempts.
+34607 spots unchecked out of 53357
+Camera spots generation verbose output
+822 camera spots found (this epoch) out of 1250 attempts.
+4572 camera spots found (in total) out of 23750 attempts.
+29607 spots unchecked out of 53357
+Camera spots generation verbose output
+164 camera spots found (this epoch) out of 1250 attempts.
+6414 camera spots found (in total) out of 28750 attempts.
+24607 spots unchecked out of 53357
+Camera spots generation verbose output
+1039 camera spots found (this epoch) out of 1250 attempts.
+8539 camera spots found (in total) out of 33750 attempts.
+19607 spots unchecked out of 53357
+Camera spots generation verbose output
+18 camera spots found (this epoch) out of 1250 attempts.
+10018 camera spots found (in total) out of 38750 attempts.
+14607 spots unchecked out of 53357
+Camera spots generation verbose output
+524 camera spots found (this epoch) out of 1250 attempts.
+11774 camera spots found (in total) out of 43750 attempts.
+9607 spots unchecked out of 53357
+Camera spots generation verbose output
+487 camera spots found (this epoch) out of 1250 attempts.
+14237 camera spots found (in total) out of 48750 attempts.
+4607 spots unchecked out of 53357
+Camera spot generation complete at Sun Dec 20 19:36:36 2020
+. Found 15484 spots.
+Camera spot generation beginning at Tue Dec 22 02:57:52 2020
+. Settings: 1250,3
+Camera spots generation verbose output
+478 camera spots found (this epoch) out of 1250 attempts.
+478 camera spots found (in total) out of 3750 attempts.
+49607 spots unchecked out of 53357
+Camera spots generation verbose output
+1200 camera spots found (this epoch) out of 1250 attempts.
+1200 camera spots found (in total) out of 8750 attempts.
+44607 spots unchecked out of 53357
+Camera spots generation verbose output
+900 camera spots found (this epoch) out of 1250 attempts.
+2150 camera spots found (in total) out of 13750 attempts.
+39607 spots unchecked out of 53357
+Camera spots generation verbose output
+653 camera spots found (this epoch) out of 1250 attempts.
+3153 camera spots found (in total) out of 18750 attempts.
+34607 spots unchecked out of 53357
+Camera spots generation verbose output
+822 camera spots found (this epoch) out of 1250 attempts.
+4572 camera spots found (in total) out of 23750 attempts.
+29607 spots unchecked out of 53357
+Camera spots generation verbose output
+164 camera spots found (this epoch) out of 1250 attempts.
+6414 camera spots found (in total) out of 28750 attempts.
+24607 spots unchecked out of 53357
+Camera spots generation verbose output
+1039 camera spots found (this epoch) out of 1250 attempts.
+8539 camera spots found (in total) out of 33750 attempts.
+19607 spots unchecked out of 53357
+Camera spots generation verbose output
+18 camera spots found (this epoch) out of 1250 attempts.
+10018 camera spots found (in total) out of 38750 attempts.
+14607 spots unchecked out of 53357
+Camera spots generation verbose output
+524 camera spots found (this epoch) out of 1250 attempts.
+11774 camera spots found (in total) out of 43750 attempts.
+9607 spots unchecked out of 53357
+Camera spots generation verbose output
+487 camera spots found (this epoch) out of 1250 attempts.
+14237 camera spots found (in total) out of 48750 attempts.
+4607 spots unchecked out of 53357
+Camera spot generation complete at Tue Dec 22 02:58:17 2020
+. Found 15484 spots.

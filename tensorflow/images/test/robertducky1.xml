@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>robertducky1.jpg</filename>
+	<path>C:\Users\Gerrard Tai\Documents\code\TensorFlow\workspace\training_demo\images\robertducky1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>273</ymin>
+			<xmax>616</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

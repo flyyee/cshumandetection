@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(273,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(361,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(366,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(376,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(386,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\math.h(398,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\engine.hpp(127,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\engine.hpp(128,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\externalbase\main.cpp(82,24): warning C4018: '<=': signed/unsigned mismatch
+  externalbase.vcxproj -> C:\Users\Gerrard Tai\Documents\code\cshumandetection\externalbase\externalbase\Debug\externalbase.exe
