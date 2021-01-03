@@ -5,7 +5,7 @@ Generates training data (csgonav, ImageGeneration) for a tensorflow object detec
 
 End goal: Alternative to traditional csgo cheat that uses machine learning to detect enemies instead of directly reading from the game's memory.  
 
-Explanation of how the program works:  
+# Explanation of how the program works:  
 
 CBL Generation: Potential camera locations are found by determining which spots in a grid on a 2d image representation of the map are within the map. Each camera's viewable area is determined by tracing rays from the camera to an obstacle. Bot positions are generated within the viewable area.  
 
@@ -15,6 +15,7 @@ Machine learning: The dataset and annotations are used to train the "ssd_resnet5
 
 App: Csgo screen output is captured and the current frame is run through the model. screen2angle is used to determine the mouse movement necessary to shift the player crosshair's to the desired location. Using the output from the model, the crosshair is moved by simulating mouse movements.  
 
+# Directory:
 *much of the files/data/dataset generated are not included due to the file size limits of github. A fresh run is __NECESSARY__.  
 
 csgonav: Generates pairs of camera and bot positions (CBL) from a given nav (map) file  
@@ -31,7 +32,7 @@ scripts: bot config that controls bot behaviour
 
 tensorflow/exported-model: app that captures csgo video output, runs inference on it and moves the crosshair accordingly  
 
-**Additional features to be added:**  
+# Additional features to be added:
 
 **Data generation:**  
 
